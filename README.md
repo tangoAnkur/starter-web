@@ -1,6 +1,7 @@
 # Starter Web Project
 This repository is for showing how Git and GitHub work
 ## Introduction
+Asesome Practice section bro
 ## Purpose
 ## Developement
 ## How to continue
