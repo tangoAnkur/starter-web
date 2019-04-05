@@ -6,7 +6,9 @@ Asesome Practice section bro
 As started above, the main purpose
 ## Developement
 Some DEvelopememt  from my repository setup understanding 
-## How to continue
+## How to COntribute 
+
+Please Contribute to my new readme fiile
 Sample website with plenty of files for demos
 ### Copyright
 2019 Git.learning
