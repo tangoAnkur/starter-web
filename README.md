@@ -1,6 +1,6 @@
 # Starter Web Project
 This repository is for showing how Git and GitHub work.
-For rebasing example modification
+For rebasing example modification, then more changes from nebase branch too.
 ## Introduction
 Asesome Practice section bro
 ## Purpose
