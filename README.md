@@ -1,5 +1,6 @@
 # Starter Web Project
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+For rebasing example modification
 ## Introduction
 Asesome Practice section bro
 ## Purpose
