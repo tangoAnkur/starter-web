@@ -12,4 +12,4 @@ Some DEvelopememt  from my repository setup understanding
 Please Contribute to my new readme fiile
 Sample website with plenty of files for demos
 ### Copyright
-2019 Git.learning
+2019 Git.learning All rights reserve
